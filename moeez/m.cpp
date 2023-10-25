@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	char arr[9] = {'1','2','3','4','5','6','7','8','9' };
+	char arr[9] = {'1','2','3','4','5','6','7','8','9','10'};
 	
 	cout << "\t|\t|"<<endl;
 	cout <<  setw(4)<<arr[0]<<"\t|"<<setw(4)<<arr[1]<<"\t|"<<setw(4)<<arr[2] << endl;
